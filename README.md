@@ -5,21 +5,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/inject.png" alt="animated" />
+  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/inject.png" alt="animated" />
 </p>
 
 <h2 align="center"> SKILLS</h2>
 <p align="center">
 
 <p align="center">
-  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/1.png"height="60"/>
-  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/2.png"height="60"/>
-  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/9.png"height="60"/>
-  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/3.png"height="60"/>
-  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/4.png"height="60"/>
-  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/5.png"height="60"/>
-  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/6.png"height="60"/>
-  <img src="https://github.com/trewisscotch/trewisscotch/blob/main/img/7.png"height="60"/>
+  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/1.png"height="60"/>
+  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/2.png"height="60"/>
+  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/9.png"height="60"/>
+  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/3.png"height="60"/>
+  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/4.png"height="60"/>
+  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/5.png"height="60"/>
+  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/6.png"height="60"/>
+  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/7.png"height="60"/>
 </p>
 
 <h2 align="center"> ## WANT TO LEARN PHISHING? WRITE TO ME - I TAKE TRAINING IN ALL PHISHING METHODS ## </a> </h2> 
@@ -49,12 +49,12 @@ The site is being reconstructed
 ## &#x1f4c8; GITHUB STATS
 
 <p align="center">
-<a href="https://github.com/natainditama/trewisscotch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trewisscotch&langs_count=3&theme=radical" alt="Top languanges" />
+<a href="https://github.com/natainditama/injectexpert">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=injectexpert&langs_count=3&theme=radical" alt="Top languanges" />
 </a>
 
-<a href="https://github.com/natainditama/trewisscotch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trewisscotch&show_icons=true&line_height=27&count_private=true&theme=radical" alt="GitHub Stats" />
+<a href="https://github.com/natainditama/injectexpert">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=injectexpert&show_icons=true&line_height=27&count_private=true&theme=radical" alt="GitHub Stats" />
 </a>
 
 💰 Feeling Generous? Help Support Me 💰
