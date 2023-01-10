@@ -38,7 +38,7 @@ The site is being reconstructed
 
 <h2 align="center">CONTACT ME</h2>
 <p align="center">
-<a href="https://twitter.com/TrewisScotch" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/MetthewKals" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://t.me/inject_exp" target="_blank"><img src="https://img.shields.io/badge/telegram-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <p align="center">
