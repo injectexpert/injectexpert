@@ -22,7 +22,7 @@
   <img src="https://github.com/injectexpert/injectexpert/blob/main/img/7.png"height="60"/>
 </p>
 
-<h2 align="center"> ## WANT TO LEARN PHISHING? WRITE TO ME - I TAKE TRAINING IN ALL PHISHING METHODS ## </a> </h2> 
+<h2 align="center"> ## PHISHING / HACKING / EXPLOITS ## </a> </h2> 
 <p align="center">
 </a>
 
