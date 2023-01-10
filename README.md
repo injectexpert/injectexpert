@@ -30,11 +30,11 @@
 The site is being reconstructed
 
 <p align="center">
-</a> <a href="https://phish.team" target="_blank"><img src="https://img.shields.io/badge/inject-exp-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</a> <a href="https://injectexp.dev" target="_blank"><img src="https://img.shields.io/badge/inject-exp-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/injecteam" target="_blank"><img src="https://img.shields.io/badge/ACADEMY-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/injectexpdev" target="_blank"><img src="https://img.shields.io/badge/ACADEMY-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 <h2 align="center">CONTACT ME</h2>
 <p align="center">
@@ -59,7 +59,7 @@ The site is being reconstructed
 
 💰 Feeling Generous? Help Support Me 💰
 
-💻 # FOUNDER OF THE PHISHING ACADEMY -  <a href="https://t.me/injecteam" target="_blank"><img src="https://img.shields.io/badge/ACADEMY-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+💻 # FOUNDER OF THE PHISHING ACADEMY -  <a href="https://t.me/injectexpdev" target="_blank"><img src="https://img.shields.io/badge/ACADEMY-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 My Projects 📝
 
